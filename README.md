@@ -1,7 +1,7 @@
 # AskMate 
 
 <h1>Introduction</h1>
-Questions and Answers (Q & A) Forum software written in Python Flask and HTML / CSS + Jinja template engine
+Questions and Answers (Q & A) Forum application written in Python with Flask + Jinja template engine and HTML / CSS
 
 <h1>How to use:</h1>
 import PostgreSQL (ver 12 at least) dump
